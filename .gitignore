@@ -1,0 +1,8 @@
+venv
+.flake8
+.vscode
+db.sqlite3
+__pycache__
+media
+.env
+.idea
